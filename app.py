@@ -44,7 +44,7 @@ if projects:
         "https://www.linkedin.com/posts/activity-7303496301101359106-1QHU?"
         "utm_source=share&utm_medium=member_desktop&rcm=ACoAADchgAsB7gIKE5BVo0M96yjGcSnJJ6dmGjM"
     )
-    projects[0]["image"] = "/content/Hac_img.jpg"
+    projects[0]["image"] = "https://github.com/Lal1th/Portfolio/blob/main/Hac_img.jpg"
     projects[0]["description"] = (
         "3rd place at Data Analytics Hackathon building an AWS QuickSight BI dashboard."
     )
